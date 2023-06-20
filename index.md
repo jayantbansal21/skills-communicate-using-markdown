@@ -4,3 +4,8 @@
 ```
 $ git init
 ```
+
+- [x] this is the first step.
+- [ ] This is the second step
+- [ ] and this is the finish line
+      
